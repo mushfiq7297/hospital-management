@@ -14,7 +14,7 @@ const SearchBar = () => {
         className="flex-grow"
         placeholder="Types hospitals, doctors, medicine names"
       />
-      <button className="bg-blue-500 text-white py-3 font-semibold text-xl px-10 hover:bg-red-500">
+      <button className="bg-blue-500 text-white py-4 font-semibold text-xl px-10 hover:bg-red-500">
         Search
       </button>
     </div>
